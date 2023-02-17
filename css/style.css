@@ -1,0 +1,65 @@
+.home{
+    height: 100vh;
+    background-image: url(../images/amany\ \(1\).PNG);
+    background-size: cover;
+    position: relative;
+}
+.home-content{
+    width: 60%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50% , -50% );
+    text-align: center;
+}
+.home-title{
+    color: rgb(255, 255, 255);
+    font-size: 60px;
+    text-transform: uppercase;
+}
+.book{
+    width: 100px;
+    height: 40px;
+    border-radius: 20px;
+    border: none;
+    
+}
+.book:hover{
+    background-color: darkgoldenrod;
+} 
+/* ////////////////////////////////////////////////////////////////// */
+.top{
+    color: #000;
+}
+.life{
+    color: darkgoldenrod;  
+}
+.mo-title{
+    color: rgb(11, 106, 184);  
+}
+.What {
+    background-image: url(../images/sssssss.jpg); 
+    background-size: cover;
+    background-attachment: fixed;
+}
+#amany{
+    background-image: url(../images/sssssss.jpg); 
+    background-size: cover;
+    background-attachment: fixed; 
+}
+/* .rest-image{
+    transition: transform 0.5s;
+}
+.rest-image:nth-child(1):hover{
+    transform: scale(1.1);
+} */
+
+
+
+
+
+
+
+
+
+
